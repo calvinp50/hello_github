@@ -75,6 +75,8 @@ and open the template in the editor.
     //foreach ($rs as $row){   //echo "<pre>"; print_r($row);
        // echo "<br>" . $row["ClientID"] . $row["LastName"] . " " . $row["FirstName"];
      //}
+	
+	$rs_temp = "this is that"; 
   
    include_once 'ccb/functions.php'; 
 
